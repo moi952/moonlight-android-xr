@@ -5,6 +5,7 @@ on:
     branches: [master]
     tags: ['v*']
   pull_request:
+  workflow_dispatch:
 
 # A tag build signs the release APK with the keystore held in the repository
 # secrets. Without them it still builds and publishes the unsigned APK, which
