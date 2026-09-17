@@ -284,4 +284,14 @@
     <string name="title_seekbar_vibrate_fallback_strength">Ajuster l\'intensité de la vibration émulée</string>
     <string name="summary_seekbar_vibrate_fallback_strength">Amplifie ou réduit l\'intensité de la vibration sur votre appareil</string>
     <string name="suffix_seekbar_vibrate_fallback_strength">%</string>
+    <string name="title_vr_keyboard_layout">Disposition du clavier dans le casque</string>
+    <string name="summary_vr_keyboard_layout">Touches du clavier virtuel en VR — la disposition doit correspondre à celle du PC hôte.</string>
+    <string name="vr_keyboard_layout_auto">Automatique</string>
+    <string name="vr_keyboard_layout_qwerty">QWERTY</string>
+    <string name="vr_keyboard_layout_azerty">AZERTY</string>
+    <string name="kb_label_shift">Maj</string>
+    <string name="kb_label_del">Suppr</string>
+    <string name="kb_label_enter">Entrée</string>
+    <string name="kb_label_hide">Masquer</string>
+    <string name="kb_label_space">espace</string>
 </resources>
